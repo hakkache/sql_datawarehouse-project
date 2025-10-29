@@ -10,7 +10,7 @@ The project follows the **Medallion Architecture** pattern with three distinct l
 
 ```
         
-    BRONZE         SILVER         GOLD       
+    BRONZE              SILVER                  GOLD       
    Raw Data           Cleansed Data        Business Ready  
    Ingestion          Standardized         Star Schema     
 ─        
